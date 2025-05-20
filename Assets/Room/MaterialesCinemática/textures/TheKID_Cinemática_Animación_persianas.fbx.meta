@@ -3,7 +3,12 @@ guid: 62a074a32b95215498b8d697eca1d20d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flower Curtain Material
+    second: {fileID: 2100000, guid: 758730b10cd6ecc46a5bce3c8023bb07, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
